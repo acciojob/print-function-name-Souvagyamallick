@@ -3,3 +3,4 @@ function name(params) {
 	console.log(arguments.callee.name);
 	
 }
+name(1);
